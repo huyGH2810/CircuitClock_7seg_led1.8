@@ -1,0 +1,5 @@
+Added Component: Designator=BT1(DE PINCR1220)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "Ð? Pin CR2032 SMD003"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_2 Pin=BT1-2
+Added Member To Class: ClassName=SCH_Bai1 Member=Component BT1 MH004292

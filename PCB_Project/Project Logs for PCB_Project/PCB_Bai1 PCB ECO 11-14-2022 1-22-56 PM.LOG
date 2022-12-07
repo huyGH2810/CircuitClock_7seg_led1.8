@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Led7_G Pin=U1-17
+Removed Pin From Net: NetName=Led7_F Pin=U1-18
+Removed Pin From Net: NetName=Led7_H Pin=U1-19
+Removed Pin From Net: NetName=Led7_A Pin=U1-20
+Removed Pin From Net: NetName=Led7_B Pin=U1-21
+Removed Pin From Net: NetName=Led7_D Pin=U1-22
+Removed Pin From Net: NetName=Led7_C Pin=U1-23
+Removed Pin From Net: NetName=Led7_E Pin=U1-24
+Added Pin To Net: NetName=Led7_C Pin=U1-17
+Added Pin To Net: NetName=Led7_D Pin=U1-18
+Added Pin To Net: NetName=Led7_E Pin=U1-19
+Added Pin To Net: NetName=Led7_B Pin=U1-20
+Added Pin To Net: NetName=Led7_A Pin=U1-21
+Added Pin To Net: NetName=Led7_H Pin=U1-22
+Added Pin To Net: NetName=Led7_F Pin=U1-23
+Added Pin To Net: NetName=Led7_G Pin=U1-24

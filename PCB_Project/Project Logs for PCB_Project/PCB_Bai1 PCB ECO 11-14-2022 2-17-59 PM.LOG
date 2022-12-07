@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=Net7SEG1_2 Pin=7SEG1-6
+Removed Pin From Net: NetName=Net7SEG1_2 Pin=7SEG1-7
+Removed Pin From Net: NetName=Net7SEG1_2 Pin=7SEG2-6
+Removed Pin From Net: NetName=Net7SEG1_2 Pin=7SEG2-7
+Removed Pin From Net: NetName=Net7SEG1_2 Pin=7SEG3-6
+Removed Pin From Net: NetName=Net7SEG1_2 Pin=7SEG3-7
+Removed Pin From Net: NetName=Net7SEG1_2 Pin=7SEG4-6
+Removed Pin From Net: NetName=Net7SEG1_2 Pin=7SEG4-7
+Removed Pin From Net: NetName=Net7SEG1_2 Pin=R9-2
+Removed Pin From Net: NetName=Net7SEG1_2 Pin=R10-2
+Added Pin To Net: NetName=Net7SEG1_6 Pin=7SEG1-6
+Added Pin To Net: NetName=Net7SEG1_6 Pin=7SEG2-6
+Added Pin To Net: NetName=Net7SEG1_6 Pin=7SEG3-6
+Added Pin To Net: NetName=Net7SEG1_6 Pin=7SEG4-6
+Added Pin To Net: NetName=Net7SEG1_6 Pin=R10-2
+Added Net: Name=Net7SEG1_6
+Added Pin To Net: NetName=Net7SEG1_7 Pin=7SEG1-7
+Added Pin To Net: NetName=Net7SEG1_7 Pin=7SEG2-7
+Added Pin To Net: NetName=Net7SEG1_7 Pin=7SEG3-7
+Added Pin To Net: NetName=Net7SEG1_7 Pin=7SEG4-7
+Added Pin To Net: NetName=Net7SEG1_7 Pin=R9-2
+Added Net: Name=Net7SEG1_7

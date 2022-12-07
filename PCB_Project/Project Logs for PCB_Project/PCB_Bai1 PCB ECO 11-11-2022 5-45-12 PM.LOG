@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=1 NewDesignator=7SEG2
+Change Component Designator: OldDesignator=2 NewDesignator=7SEG3
+Change Component Designator: OldDesignator=3 NewDesignator=7SEG4
+Change Net Name : Old Net Name=Net1_1 New Net Name=Net7SEG2_1
+Change Net Name : Old Net Name=Net1_2 New Net Name=Net7SEG1_2
+Change Net Name : Old Net Name=Net1_3 New Net Name=Net7SEG1_3
+Change Net Name : Old Net Name=Net1_4 New Net Name=Net7SEG1_4
+Change Net Name : Old Net Name=Net1_8 New Net Name=Net7SEG1_8
+Change Net Name : Old Net Name=Net1_9 New Net Name=Net7SEG1_9
+Change Net Name : Old Net Name=Net1_10 New Net Name=Net7SEG1_10
+Change Net Name : Old Net Name=Net2_1 New Net Name=Net7SEG3_1
+Change Net Name : Old Net Name=Net3_1 New Net Name=Net7SEG4_1
